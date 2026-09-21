@@ -60,7 +60,7 @@
 
 **SIMULATION** 
 
-![][image1]
+
 ![simulation](Simulation..pdf)
       
 
